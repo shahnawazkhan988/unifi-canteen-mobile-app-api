@@ -1,0 +1,10 @@
+Flask
+Flask-PyMongo
+Jinja2
+MarkupSafe
+Werkzeug
+DateTime
+PyJWT
+Flask-RESTful
+Flask-HTTPAuth
+SimpleDump

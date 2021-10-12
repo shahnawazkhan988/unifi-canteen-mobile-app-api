@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: SimpleDump
+Version: 0.1.1
+Summary: dump functions for debugging Pythone code in PHP-style
+Home-page: https://github.com/udartsev/SimpleDump.git
+Author: Vladimir Udartsev
+Author-email: v.udartsev@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+
+When debugging in Python, ypu can frequently find it useful to simply stick a var_dump() in code to show what a variable is, what it`s value is, and the same for anything that it contains.
+
+
